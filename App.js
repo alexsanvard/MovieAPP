@@ -9,7 +9,7 @@ export default () => {
     <NavigationContainer>
       <Stack.Navigator>
         <Stack.Screen name="home" component={HomeScreen} options={{headerShown:false}}/>
-          
+          adasdadasdasdasdas;
         <Stack.Screen name="movie" component={MovieScreen}/>
       </Stack.Navigator>
     </NavigationContainer>
