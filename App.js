@@ -13,7 +13,7 @@ export default () => {
         <Stack.Screen name="movie" component={MovieScreen}/>
       </Stack.Navigator>
     </NavigationContainer>
-    //test
+    //
   );
 }
 
