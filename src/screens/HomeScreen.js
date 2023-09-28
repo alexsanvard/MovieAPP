@@ -11,6 +11,7 @@ const HomeScreen = () => {
       <View style={styles.headerContainer}>
         <Text style={styles.headerTitle}>Now Playing</Text>
         <Text style={styles.headerSubTitle}>View all</Text>
+        <Text style={styles.headerSubTitle}>Chịu thua </Text>
       </View>
     </ScrollView>
   );
